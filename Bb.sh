@@ -863,7 +863,7 @@ body { background: var(--bg); color: var(--text); display: flex; align-items: ce
 <body>
 <div class="card">
 <div class="header">
-<div class="title">Hazel Config Maker Simple Panel</div>
+<div class="title">Hazel Maker Panel</div>
 <div class="badge"><span class="dot"></span> Operational</div>
 </div>
 
