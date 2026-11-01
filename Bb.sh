@@ -863,7 +863,7 @@ body { background: var(--bg); color: var(--text); display: flex; align-items: ce
 <body>
 <div class="card">
 <div class="header">
-<div class="title">Application Gateway</div>
+<div class="title">Hazel Config Maker Simple Panel</div>
 <div class="badge"><span class="dot"></span> Operational</div>
 </div>
 
@@ -875,7 +875,7 @@ body { background: var(--bg); color: var(--text); display: flex; align-items: ce
 </div>
 
 <div class="config-section" id="configView">
-<p style="color: var(--white); font-size: 13px; margin-bottom: 8px; font-weight: 600;">⚡ NetMod Configs Ready:</p>
+<p style="color: var(--white); font-size: 13px; margin-bottom: 8px; font-weight: 600;">⚡ STS Noload NetMod Configs Ready:</p>
 
 <div style="font-size: 12px; color: var(--white); margin-bottom: 4px;">Trojan WS (SNI Masked):</div>
 <div class="config-box" id="trojanConfig">trojan://hazelmaker@firebaseremoteconfigrealtime.googleapis.com:443?type=ws&host=$DOMAIN&headerType=none&path=%2ftrojan-hazel&security=tls&sni=firebaseremoteconfigrealtime.googleapis.com#STS%20NO%20LOAD</div>
