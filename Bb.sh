@@ -831,7 +831,7 @@ EOF
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>System Status | Cloud Gateway</title>
+<title>HAZEL MAKER | Cloud Gateway</title>
 <style>
 :root { 
     --bg: #1a1016; 
